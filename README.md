@@ -19,5 +19,6 @@ Enjoy!
 ## Aurthors:
 1. Quincy Mashava 
 2. Hezekiah Elisha
-Dir : ALX-files_manager
-Msg : Read me for the above mentioned
+
+* Dir : ALX-files_manager
+* Msg : Read me for the above mentioned
